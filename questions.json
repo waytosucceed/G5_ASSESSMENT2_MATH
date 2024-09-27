@@ -1,0 +1,701 @@
+{
+  "heading": "Syllables and Spelling Patterns",
+  "topics": [
+    {
+      "heading": "Number Sense",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Place value and face value of a number is always equal at____.",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "Ones place"
+            },
+            {
+              "text": "Tens place"
+            },
+            {
+              "text": "Hundreds place"
+            },
+            {
+              "text": "Thousands place"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 2,
+          "question": "The best estimate for <br>8045 × 302 is ______.",
+          "options": [
+            {
+              "text": "8000 × 300"
+            },
+            {
+              "text": "8000 × 350"
+            },
+            {
+              "text": "9000 × 300"
+            },
+            {
+              "text": "9000 × 350"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 3,
+          "question": "which of the following options is arranged in descending order?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "5034, 7056, 80431, 10569"
+            },
+            {
+              "text": "82540, 72042, 42035, 10568"
+            },
+            {
+              "text": "6051, 10268, 24561, 54685"
+            },
+            {
+              "text": "1029, 50552, 30251, 44162"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 4,
+          "question": "______ is rounded off to the nearest thousands gives 60000.",
+          "options": [
+            {
+              "text": "54999"
+
+            },
+            {
+              "text": "58999"
+
+            },
+            {
+              "text": "59199"
+
+            },
+            {
+              "text": "59999"
+
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Computation Operations",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "The highest common factor of 56 and 184 is:",
+          "options": [
+            {
+              "text": "8"
+            },
+            {
+              "text": "12"
+            },
+            {
+              "text": "7"
+            },
+            {
+              "text": "16"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 6,
+          "question": "Three bells ring of intervals of 12, 15 and 20 minutes. If they all ring at 6 a.m. together, then at what time will they next ring together?",
+          "options": [
+            {
+              "text": "6 : 30 a.m."
+            },
+            {
+              "text": "7 : 05 a.m."
+            },
+            {
+              "text": "6 : 45 a.m."
+            },
+            {
+              "text": "7 : 00 a.m."
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 7,
+          "question": "Find the sum of greatest and smallest 6-digit numbers that can be formed by using the digits 2, 1, 0 and 8 (using each digit at least once).",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "998138"
+            },
+            {
+              "text": "988238"
+            },
+            {
+              "text": "978168"
+            },
+            {
+              "text": "None of these"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 8,
+          "question": "In a garden, there are 2995 plants in 1 row. if each row has the same number of plants, then how many plants are there in 128 rows?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "383360"
+            },
+            {
+              "text": "286590"
+            },
+            {
+              "text": "372560"
+            },
+            {
+              "text": "296570"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Fractions and Decimals",
+      "questions": [
+        {
+          "questionNo": 9,
+          "question": "Simplify :<br> 95.245 + 128.743 - 19.108",
+          "options": [
+            {
+              "text": "198.84"
+            },
+            {
+              "text": "204.88"
+            },
+            {
+              "text": "210.95"
+            },
+            {
+              "text": "312.54"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 10,
+          "question": "I think of a decimal number. After I have subtract 2.9 from it, multiplied the result by 3 and then added 0.15, I get 10.5. What decimal number am I thinking of?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "4.5"
+            },
+            {
+              "text": "15.66"
+            },
+            {
+              "text": "20.10"
+            },
+            {
+              "text": "None of these"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 11,
+          "question": "There are _______ eighths in <img width='150px' style='width:30%' src='./assests/images/question/9.png'>",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "38"
+            },
+            {
+              "text": "19"
+            },
+            {
+              "text": "18"
+            },
+            {
+              "text": "20"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 12,
+          "question": "What fraction of the given figure is shaded?<br><img width='150px' style='width:80%' src='./assests/images/question/8.png'>",
+          "options": [
+            {
+              "text": "",
+              "image":"./assests/images/option/5.png",
+              "sound": ""
+
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/6.png",
+              "sound": ""
+
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/7.png",
+              "sound": ""
+
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/8.png",
+              "sound": "."
+
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        }
+      ]
+    },
+    {
+      "heading": "Measurements",
+      "questions": [
+        {
+          "questionNo": 13,
+          "question": "Convert 15 days 16 hours 12 minutes into minutes.",
+          "options": [
+            {
+              "text": "19361 minutes"
+            },
+            {
+              "text": "18581 minutes"
+            },
+            {
+              "text": "23560 minutes"
+            },
+            {
+              "text": "22572 minutes"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 14,
+          "question": "Komal's birthday party starts at 5 : 20 p.m. and finished 4 hours 20 minutes later. When did the party finish?",
+          "options": [
+            {
+              "text": "9 : 10 p.m."
+            },
+            {
+              "text": "9 : 40 p.m."
+            },
+            {
+              "text": "9 : 20 p.m."
+            },
+            {
+              "text": "9 : 18 p.m."
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 15,
+          "question": "The total capacity of containers A and B is 30.32 L. If the capacity of containers A, B and C altogether is 46.06 L, then the capacity of container C is:",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "15.74 L"
+            },
+            {
+              "text": "12.58 L"
+            },
+            {
+              "text": "19.36 L"
+            },
+            {
+              "text": "16.49 L"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 16,
+          "question": "The weight of Alex is 57.89 kg. If the weight of Tom is 16.47 kg more then Alex weight, then find the total weight of Alex and Tom.",
+          "options": [
+            {
+              "text": "168.36 kg"
+            },
+            {
+              "text": "89.93 kg"
+            },
+            {
+              "text": "132.25 kg"
+            },
+            {
+              "text": "74.36 kg"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Angles",
+      "questions": [
+        {
+          "questionNo": 17,
+          "question": "Reflex angle is the angle which measures more than _____ and less than ______.",
+          "options": [
+            {
+              "text": "90°, 180°"
+            },
+            {
+              "text": "360°, 180°"
+            },
+            {
+              "text": "180°, 90°"
+            },
+            {
+              "text": "180°, 360°"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 18,
+          "question": "Study the given figure and select the correct option<br><img width='150px' style='width:80%' src='./assests/images/question/2.png'>",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "∠POW - Acute angle"
+            },
+            {
+              "text": "∠WOU - Obtuse angle"
+            },
+            {
+              "text": "∠TOP - Straight angle"
+            },
+            {
+              "text": "∠QOS - Acute angle"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 19,
+          "question": "Read the given statements carefully and select the correct option.<ol style='text-align:start' type='i'><li>At 6:00 a.m., hands of a clock form a right angle.</li><li>An angle which measures  less than 360° but more then 180°, is a reflex angle.</li></ol>",
+          "options": [
+            {
+              "text": "Only (i) is true."
+            },
+            {
+              "text": "Only (ii) is true."
+            },
+            {
+              "text": "Both (i) and (ii) are true."
+            },
+            {
+              "text": "Neither (i) nor (ii) is true."
+            }
+          ],
+          "answer": 1,
+          "explanation": "1"
+        },
+        {
+          "questionNo": 20,
+          "question": "How many pairs of parallel lines are there in the given figure:<br><img width='150px' style='width:80%' src='./assests/images/question/3.png'>",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "2"
+            },
+            {
+              "text": "3"
+            },
+            {
+              "text": "4"
+            },
+            {
+              "text": "1"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Perimeter and Area",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Length of a rectangle is thrice its breadth. If its length is 96 cm, then find its area.",
+          "options": [
+            {
+              "text": "3186 sq. cm"
+            },
+            {
+              "text": "3072 sq. cm"
+            },
+            {
+              "text": "3224 sq. cm"
+            },
+            {
+              "text": "3196 sq. cm"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 22,
+          "question": "Ritik ran along a square field and covered 576 m in 2 rounds. What was the area of the field?",
+          "options": [
+            {
+              "text": "5184 sq. m"
+            },
+            {
+              "text": "5230 sq. m"
+            },
+            {
+              "text": "5146 sq. m"
+            },
+            {
+              "text": "5460 sq. m"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 23,
+          "question": "What is the shaded area of given figure?<br><img width='150px' style='width:80%' src='./assests/images/question/4.png'>",
+          "options": [
+            {
+              "text": "4 sq. cm"
+
+            },
+            {
+              "text": "8 sq. cm"
+
+            },
+            {
+              "text": "7 sq. cm"
+
+            },
+            {
+              "text": "6 sq. cm"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 24,
+          "question": "A boy wants to frame 6 pictures, each of length 8 cm and breadth 3 cm. What length of wood will he need to make the frames?",
+          "options": [
+            {
+              "text": "130 cm"
+            },
+            {
+              "text": "180 cm"
+            },
+            {
+              "text": "132 cm"
+            },
+            {
+              "text": "144 cm"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Symmetry",
+      "questions": [
+        {
+          "questionNo": 25,
+          "question": "A circle has ______ lines of symmetry than rectangle.",
+          "options": [
+            {
+              "text": "More"
+
+            },
+            {
+              "text": "Less"
+
+            },
+            {
+              "text": "Equal"
+
+            },
+            {
+              "text": "Can't be determined"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 26,
+          "question": "Which square must be unshaded so that the given figure has atleast one line of symmetry<br><img width='150px' style='width:70%' src='./assests/images/question/5.png'>",
+          "options": [
+            {
+              "text": "P"
+
+            },
+            {
+              "text": "Q"
+
+            },
+            {
+              "text": "R"
+
+            },
+            {
+              "text": "S"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 27,
+          "question": "<img width='150px' style='width:70%' src='./assests/images/question/6.png'><br>has ______ lines  of symmetry.",
+          "options": [
+            {
+              "text": "4"
+
+            },
+            {
+              "text": "5"
+
+            },
+            {
+              "text": "6"
+
+            },
+            {
+              "text": "7"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 28,
+          "question": "Which of the following squares must be unshaded so that the given figure has a line of symmetry<br><img width='150px' style='width:70%' src='./assests/images/question/7.png'>",
+          
+            "options": [
+            {
+              "text": "Q"
+
+            },
+            {
+              "text": "S"
+
+            },
+            {
+              "text": "P"
+
+            },
+            {
+              "text": "R"
+
+            }
+          ],
+          
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Data Handling",
+      "questions": [
+        {
+          "questionNo": 29,
+          "question": "<img width='150px' style='width:80%' src='./assests/images/question/10.png'><br>How much electricity (KWh) did families Q and R used together?",
+          "options": [
+            {
+              "text": "600 KWh"
+            },
+            {
+              "text": "1500 KWh"
+            },
+            {
+              "text": "2100 KWh"
+            },
+            {
+              "text": "1200 KWh"
+            }
+          ],
+          "answer": 2,
+          "explanation": " This sentence tells us something. It states a fact, so it's a statement."
+        },
+        {
+          "questionNo": 30,
+          "question": "<img width='150px' style='width:90%' src='./assests/images/question/11.png'><br>Which flavour like by least number of children?",
+          "options": [
+            {
+              "text": "Strawberry"
+            },
+            {
+              "text": "Chocolate"
+            },
+            {
+              "text": "Vanilla"
+            },
+            {
+              "text": "Mango"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}
